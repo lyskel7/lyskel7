@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Maykel Figueredo
-- 👀 I’m interested in learn github, angular and mucho more
-- 🌱 I’m currently learning git, angular, nestjs, etc
+- 👀 I’m interested in learn github, angular, react and much more
+- 🌱 I’m currently learning git, react, firebase, angular, nestjs, etc
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me: lyskel7@gamil.com
 
